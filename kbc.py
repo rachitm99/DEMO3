@@ -1,4 +1,4 @@
-import time,random
+import time,random,numpy
 print('WELCOME IN THE WORLD OF QUESTIONS')
 time.sleep(5)
 print()
