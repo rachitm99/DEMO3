@@ -4,7 +4,7 @@ time.sleep(5)
 print()
 print()
 print('RULE 1: There is 15+1 questions')
-print('''                            !!!!!7 crore!!!!!!
+print('''                   !!!!!7 crore!!!!!!
                           -------1 crore--------
                          --------50 lakh----------
                         ---------25 lakh------------
@@ -30,8 +30,8 @@ print()
 print()
 print()
 time.sleep(1)
-#print('* There will be 45s for first 5 question')
-#print('* There will be 60s for next 5 question')
+# There will be 45s for first 5 question
+# There will be 60s for next 5 question
 print('There will be no time limit.')
 time.sleep(2)
 print()
@@ -773,7 +773,3 @@ if a=='b':
 if a=='a' or a=='c' or a=='d':
     print('INCORRECT ANSWER!!!!!!!!!!!')
     print('you are disqualified, 0 ruppes')
-    
-      
-      
-
